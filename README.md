@@ -1,5 +1,20 @@
 # Pomodoro Timer
 
+## Project setup
+
+Follow the instructions below to get this project up and running on your own machine:
+
+Run `npm i`
+
+To run the tests, you can run the following command: 
+
+`npm test`
+
+You can run the application using the following command:
+
+`npm start`
+
+To stop the server from running, you can press `Ctrl + C`
 
 ## Project Description 
 
